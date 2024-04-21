@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1713732197 source:c:\users\dyang\desktop\fh 2.  semster\objekt orientieretes  programmieren\pminer2\main.cpp
+	"Game.h"
+	<thread>
+	"robot.h"
+
+1713734789 c:\users\dyang\desktop\fh 2.  semster\objekt orientieretes  programmieren\pminer2\include\game.h
+	"World.h"
+	"Robot.h"
+	<vector>
+
+1713735460 c:\users\dyang\desktop\fh 2.  semster\objekt orientieretes  programmieren\pminer2\include\world.h
+	<vector>
+	<cstdlib>
+	<ctime>
+	<iostream>
+	<mutex>
+
+1713735405 c:\users\dyang\desktop\fh 2.  semster\objekt orientieretes  programmieren\pminer2\include\robot.h
+	"World.h"
+	"Robot.h"
+
+1713734391 source:c:\users\dyang\desktop\fh 2.  semster\objekt orientieretes  programmieren\pminer2\src\robot.cpp
+	"Robot.h"
+	<cstdlib>
+	<chrono>
+	<thread>
+	<mutex>
+
+1713735271 source:c:\users\dyang\desktop\fh 2.  semster\objekt orientieretes  programmieren\pminer2\src\game.cpp
+	"Game.h"
+	<iostream>
+	<thread>
+
+1713735479 source:c:\users\dyang\desktop\fh 2.  semster\objekt orientieretes  programmieren\pminer2\src\world.cpp
+	"World.h"
+	"Robot.h"
+	<windows.h>
+
